@@ -1,0 +1,17 @@
+=== Dispatch Log ===
+Dispatching Zone 2 (Severity 6, Population 8000, LastHelp 3)
+Dispatching Zone 1 (Severity 8, Population 5000, LastHelp 2)
+Dispatching Zone 3 (Severity 9, Population 4000, LastHelp 1)
+Dispatching Zone 5 (Severity 7, Population 4500, LastHelp 2)
+Dispatching Zone 6 (Severity 4, Population 6000, LastHelp 1)
+Dispatching Zone 4 (Severity 5, Population 3000, LastHelp 0)
+
+BFS Traversal: 0 1 2 
+
+Dijkstra (from 0):
+To 0: 0
+To 1: 2
+To 2: 5
+To 3: 9999
+To 4: 9999
+To 5: 9999
