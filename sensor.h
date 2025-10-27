@@ -1,4 +1,4 @@
-// Owner: All Members
+
 #ifndef SENSOR_H
 #define SENSOR_H
 #include "disaster.h"

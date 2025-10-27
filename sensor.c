@@ -1,4 +1,4 @@
-// Owner: All Members
+
 #include <stdlib.h>
 #include <time.h>
 #include "sensor.h"

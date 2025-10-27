@@ -1,4 +1,3 @@
-// Owner: Nandini Bhatt
 #ifndef LOGGER_H
 #define LOGGER_H
 #include "disaster.h"
